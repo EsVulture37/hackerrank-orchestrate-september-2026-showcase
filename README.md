@@ -40,7 +40,7 @@ The agent needs to reason about:
 * **Evaluation pipeline** with multiple test cases, anomaly inspection, and validation of agent decisions.
 * **Deterministic + AI architecture** where calculations remain reliable while AI handles unstructured information.
 
-
+---
 
 ## 🧠 Core Approach
 
