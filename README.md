@@ -6,6 +6,10 @@
 
 
 
+\[HackerRank Orchestrate — 2nd Place](screenshots/ranking.png)
+
+
+
 This project placed \*\*2nd globally\*\* in the HackerRank Orchestrate September 2026 challenge.
 
 
