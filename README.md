@@ -58,7 +58,6 @@ The system separates language understanding from financial decision-making.
 
 ## 🏗️ Architecture
 
-```text
 User Request
      │
      ▼
