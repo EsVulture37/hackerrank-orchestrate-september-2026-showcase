@@ -58,6 +58,7 @@ The system separates language understanding from financial decision-making.
 
 ## 🏗️ Architecture
 
+```text
 User Request
      │
      ▼
@@ -87,6 +88,7 @@ Ledger Reconstruction
                               │
                               ▼
                          Explanation
+```
 🔧 Key Components
 Financial Ledger
 
