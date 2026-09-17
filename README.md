@@ -31,6 +31,17 @@ The agent needs to reason about:
 
 ---
 
+## ✨ Highlights
+
+* **Personalized affordability decisions** instead of simple balance checks.
+* **Financial forecasting engine** that considers income, recurring expenses, pending payments, and minimum balance.
+* **LLM-powered information extraction** from user messages and images to build financial context.
+* **Payment planning system** that recommends full payment, partial payment, installments, waiting, or avoiding the purchase.
+* **Evaluation pipeline** with multiple test cases, anomaly inspection, and validation of agent decisions.
+* **Deterministic + AI architecture** where calculations remain reliable while AI handles unstructured information.
+
+
+
 ## 🧠 Core Approach
 
 > **Let the LLM understand. Let the algorithm decide.**
