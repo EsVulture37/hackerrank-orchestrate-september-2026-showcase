@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/ranking.png" alt="HackerRank Orchestrate — 2nd Place" width="850">
+  <img src="screenshots/ranking.png" alt="HackerRank Orchestrate — 2nd Place" width="700">
 </p>
 
 This project placed **2nd globally** in the HackerRank Orchestrate September 2026 challenge.
